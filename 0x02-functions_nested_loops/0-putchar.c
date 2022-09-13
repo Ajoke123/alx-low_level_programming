@@ -1,15 +1,21 @@
-#include <stdio.h>
-#include <main.h>
-#include <unistd.h>
+#include"main.h"
+
 /**
- * main - entry point
+ * main - print putchar
  *
- * description: prints _putchar
- *
- * Return: Always (0) success
+ * Return: Always (0) (success)
  */
 int main(void)
 {
-	putchar('\n');
+	putchar(");
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
 	return (0);
 }
