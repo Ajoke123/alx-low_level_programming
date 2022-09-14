@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main -Entry point
+ * print_alphabet - function to print abc
  *
  * Return: Always 0 (Success/correct)
  */
-int main(void)
+void print_alphabet(void)
 {
 	char alphabet;
 
