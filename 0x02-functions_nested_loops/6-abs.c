@@ -8,10 +8,10 @@
  */
 int _abs(int)
 {
-	if (c >0 || c == 0)
+	if (c > 0 || c == 0)
 	{
 		return (c);
 	}
 	else
-		returm (c * -1);
+		return (c * -1);
 }
